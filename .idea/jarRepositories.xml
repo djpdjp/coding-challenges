@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="ramsArtifactory" />
+      <option name="name" value="RAMS Artifactory" />
+      <option name="url" value="https://lnamfs01dev:8081/artifactory/R2UI-Snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ramsLibs" />
+      <option name="name" value="RAMS Libs" />
+      <option name="url" value="https://lnamfs01dev:8081/artifactory/libs-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jcenter" />
+      <option name="name" value="RAMS Artifactory" />
+      <option name="url" value="https://lnamfs01dev:8081/artifactory/jcenter" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ramsRelease" />
+      <option name="name" value="RAMS Release" />
+      <option name="url" value="https://lnamfs01dev:8081/artifactory/R2UI-Release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss-public-repository" />
+      <option name="name" value="JBoss Public" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/groups/public-jboss/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ramsBERelease" />
+      <option name="name" value="RAMS BE Release" />
+      <option name="url" value="https://lnamfs01dev:8081/artifactory/R2BE-Release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-central-repository" />
+      <option name="name" value="Maven Central" />
+      <option name="url" value="https://repo1.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ramsBEArtifactory" />
+      <option name="name" value="RAMS BE Snapshot" />
+      <option name="url" value="https://lnamfs01dev:8081/artifactory/R2BE-Snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="redhat-ga-repository" />
+      <option name="name" value="Red Hat GA repository" />
+      <option name="url" value="http://maven.repository.redhat.com/ga/" />
+    </remote-repository>
+  </component>
+</project>
